@@ -41,6 +41,7 @@ nav ul li{
 
 li a:hover{
     color: yellow;
+    font-weight: bold;
 }
 
 nav ul li a{
